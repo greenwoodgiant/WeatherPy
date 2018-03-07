@@ -62,7 +62,7 @@ print(city_df["Country"].value_counts().head())
 
 
 ```python
-key = "&APPID=aa4d872bb2292428aae8893e04007714"
+key = "&APPID="
 url = "http://api.openweathermap.org/data/2.5/weather?q="
 ```
 
